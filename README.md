@@ -1,9 +1,8 @@
 ## Requirements
-You should have the following packages/tools:
+You should have the following: 
 
 - MySQL
 - NodeJS
-- ReactJS
 
 ## Installation
 
